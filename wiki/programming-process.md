@@ -6,5 +6,5 @@
    2. Of these steps, what do you not know (and have to Google?)
 4. Keep calm and code, following your plan of action
 
-> Plans can change; you might realise that you've missed a few steps in between, or forgot to account for certain scenarios. Don't fret, just course-correct and keep going!
+> Plans can change; you might realize that you've missed a few steps in between, or forgot to account for certain scenarios. Don't fret, just course-correct and keep going!
 
