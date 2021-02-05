@@ -15,18 +15,18 @@
 ## Introduction
 Tarot is an intuitive practice involving a deck of cards. Each deck comprises of 78 cards that each describes a theme in life (frustration, fear, letting go, etc.)
 
-In a tarot reading, one or more questions are posed to the deck. Single or multiple cards are drawn and interpreted to form an answer to those questions. When multiple readings are done consistently over time, the cards drawn often reflect the energy and/or events of the question poser's life. The significance of each card type are as follows:
+In a tarot reading, one or more questions are posed to the deck. Single or multiple cards are drawn and interpreted to form an answer to those questions. When multiple readings are done consistently over time, the cards drawn often reflect the energy and/or events of the question poser's life. The significance of the predominance of each card type are as follows:
 
 | Card Type                | Meaning |
 | ------------------------ | ------- |
-| Upright                  | xxx     |
-| Reversed                 | xxx     |
-| Major Arcana             | xxx     |
-| Minor Arcana             | xxx     |
-| Minor Arcana - Cups      | xxx     |
-| Minor Arcana - Pentacles | xxx     |
-| Minor Arcana - Swords    | xxx     |
-| Minor Arcana - Wands     | xxx     |
+| Upright                  | When many cards are upright, all your energies are expressing freely and powerfully. The overall situation is well developed, and your purpose is clear. |
+| Reversed                 | When many cards are reversed, your energies are low, and the situation is not clearly defined. You may lack direction or feel blocked, discouraged and restricted. You could be in a topsy-turvy state where change is likely. Since energies are not well developed, they are free to go in new directions. |
+| Major Arcana             | You are experiencing life-changing events that will have long-term effects. There are important lessons that you must pay attention to in order to progress further in your spiritual and personal quest.   |
+| Minor Arcana             | You are dealing with day-to-day issues which will not necessarily have a lasting influence on your life. These issues are passing through, presenting you with an opportunity to learn from these experiences. Look to any Major Arcana cards in the Tarot reading to identify and understand these lessons and how they may impact your life in the long-term. |
+| Minor Arcana - Cups      | You are seeking solutions to what are primarily emotional conflicts, personal interactions, love matters, feelings and creativity. |
+| Minor Arcana - Pentacles | You are seeking solutions to what are primarily material conflicts, financial matters and concerns with career and work. |
+| Minor Arcana - Swords    | You are seeking solutions to what are primarily mental struggles, conflict and arguments, and decisions that must be made. Also, there could be many arguments or even violence at present. While Swords can carry with them many negative or very strong, forceful messages, Swords serve also as a warning to be more cautious of what is occurring around you. |
+| Minor Arcana - Wands     | You can be sure that you are seeking solutions to issues that are based mainly in the realm of thought, or that are in the first stages of development. You may also be seeking greater purpose and meaning in your life and will want to understand more about what motivates and energizes you. |
 
 ## The Data
 The client has recorded his tarot reading for each day in its own file. These files can be found in the [sample-data](sample-data/) folder.
@@ -55,7 +55,7 @@ Compare the number of cards drawn that were upright and those that were reversed
 > FYI, I made the chart types different so that you can practice looking up the documentation for each type. Sorry if it's not the correct type to use >_<
 
 ### Extra Task If You're Game
-For each of the above comparisons, present the meaning for the "prevailing" type. For instance, for Task 3), if there are more Upright cards than Reversed cards, display a description on what having more Upright cards mean
+For each of the above comparisons, present the meaning for the "prevailing" type. For instance, for Task 3), if there are more Upright cards than Reversed cards, display a description on what having more Upright cards mean. These descriptions are listed in the table above.
 
 Save all your work in a single Jupyter notebook, `analyzer.ipynb`, in the `scripts` folder.
 
