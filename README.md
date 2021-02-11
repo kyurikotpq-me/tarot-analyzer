@@ -67,7 +67,7 @@ The `main` branch is your starting point. When you're done, check out the `answe
 If you want an easier option, you can check out `main-easy`. Only the initial step is easy; the desired outcomes are the same.
 
 ## Livestream Replay
-The livestream replay can be found [here](https://youtube.com).
+The livestream replay can be found [here](https://youtu.be/H_wzV3lTILY).
 
 ## Guides
 If you're truly starting from scratch, here are the steps you need to follow:
@@ -75,9 +75,11 @@ If you're truly starting from scratch, here are the steps you need to follow:
 2. Install a code editor software on your computer. I prefer using Visual Studio Code ("VS Code") - it's free works right out of the box
 3. If you're using VS Code, I have recommended extensions to help you work faster :D
 
-If you don't wanna watch the replay, I've summarized the process I have for approaching programming problems [here](wiki/programming-process.md). I've also summarized [best practices](wiki/best-practices.md) that have helped me debug more quickly.
+Alternatively, to skip all these installations, use [Google Colab](https://colab.research.google.com/drive/1pJxrHU5zqOqP5PH9sLTAI4nsCP5ZCMTB?usp=sharing).
 
-Both lists are not exhaustive, so feel free to experiment and create your own list :D
+If you don't wanna watch the replay, I've summarized the process I have for approaching programming problems [here](wiki/programming-process.md). I've also summarized [best practices](wiki/best-practices.md) that have helped me debug more quickly. My thought process is also [documented](wiki/thought-process.md).
+
+All lists are not exhaustive, so feel free to experiment and create your own list :D
 
 ## Acknowledgements
 The card meanings are obtained from [Biddy Tarot](https://biddytarot.com).
