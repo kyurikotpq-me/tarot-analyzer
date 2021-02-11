@@ -77,7 +77,7 @@ If you're truly starting from scratch, here are the steps you need to follow:
 
 Alternatively, to skip all these installations, use [Google Colab](https://colab.research.google.com/drive/1pJxrHU5zqOqP5PH9sLTAI4nsCP5ZCMTB?usp=sharing).
 
-If you don't wanna watch the replay, I've summarized the process I have for approaching programming problems [here](wiki/programming-process.md). I've also summarized [best practices](wiki/best-practices.md) that have helped me debug more quickly. My thought process is also [documented](wiki/thought-process.md).
+If you don't wanna watch the replay, I've summarized the process I have for approaching programming problems [here](wiki/programming-process.md). I've also summarized [best practices](wiki/best-practices.md) that have helped me debug more quickly. My thought process is also [documented](wiki/thought-process.md) but only in the `answer` branch.
 
 All lists are not exhaustive, so feel free to experiment and create your own list :D
 
